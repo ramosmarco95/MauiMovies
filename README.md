@@ -10,6 +10,7 @@ MauiMovies is a cross-platform mobile application built using .NET MAUI. The app
 ## Installation
 
 Clone this repository:
+git clone https://github.com/ramosmarco95/MauiMovies.git
 
 ## Demo Video
 
