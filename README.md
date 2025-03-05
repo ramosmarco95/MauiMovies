@@ -15,4 +15,4 @@ Clone this repository:
 
 Watch the demo video of the app in action:
 
-[![Watch the demo](https://www.youtube.com/watch?v=wNA0DEWBvVU&list=PLiLQZiFevjQOKfnBB2mZ4daxv_20k8VqG&index=2)
+[![Watch the demo](https://img.youtube.com/vi/wNA0DEWBvVU&list=PLiLQZiFevjQOKfnBB2mZ4daxv_20k8VqG&index=2/0.jpg)](https://www.youtube.com/watch?v=wNA0DEWBvVU&list=PLiLQZiFevjQOKfnBB2mZ4daxv_20k8VqG&index=2)
